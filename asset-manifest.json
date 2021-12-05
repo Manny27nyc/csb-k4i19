@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://manny27nyc.github.io/csb-k4i19/static/js/main.1c30652a.chunk.js",
+    "main.js.map": "https://manny27nyc.github.io/csb-k4i19/static/js/main.1c30652a.chunk.js.map",
+    "runtime-main.js": "https://manny27nyc.github.io/csb-k4i19/static/js/runtime-main.9b281d29.js",
+    "runtime-main.js.map": "https://manny27nyc.github.io/csb-k4i19/static/js/runtime-main.9b281d29.js.map",
+    "static/css/2.42f61bba.chunk.css": "https://manny27nyc.github.io/csb-k4i19/static/css/2.42f61bba.chunk.css",
+    "static/js/2.38ee9d3f.chunk.js": "https://manny27nyc.github.io/csb-k4i19/static/js/2.38ee9d3f.chunk.js",
+    "static/js/2.38ee9d3f.chunk.js.map": "https://manny27nyc.github.io/csb-k4i19/static/js/2.38ee9d3f.chunk.js.map",
+    "index.html": "https://manny27nyc.github.io/csb-k4i19/index.html",
+    "static/css/2.42f61bba.chunk.css.map": "https://manny27nyc.github.io/csb-k4i19/static/css/2.42f61bba.chunk.css.map",
+    "static/js/2.38ee9d3f.chunk.js.LICENSE.txt": "https://manny27nyc.github.io/csb-k4i19/static/js/2.38ee9d3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b281d29.js",
+    "static/css/2.42f61bba.chunk.css",
+    "static/js/2.38ee9d3f.chunk.js",
+    "static/js/main.1c30652a.chunk.js"
+  ]
+}
